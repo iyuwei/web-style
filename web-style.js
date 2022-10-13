@@ -1,8 +1,7 @@
 
-function addScript(url){
-	document.write("<script language=javascript src='https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js'></script>");
-}
-import "";
+
+document.write("<script language=javascript src='https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js'></script>");
+
 <!--看板娘 - 黑猫-->
  L2Dwidget.init({
         "model": {
