@@ -1,0 +1,61 @@
+ /*背景图片及位置*/
+ body {
+     background: url("http://cdn-ali-img-shstaticbz.shanhutech.cn/bizhi/staticwp/202104/689a123dc5ba7a2f92ee365707f633f2--101230228.jpg") fixed;
+     background-size: cover;
+     background-position: left;
+ }
+
+ /*透明度0.2*/
+ .hope-ui-dark .hope-c-iDYHca {
+     background-color: rgba(0, 0, 0, 0.2) !important;
+ }
+
+ .hope-ui-light .hope-c-iDYHca {
+     background-color: rgba(255, 255, 255, 0.2) !important;
+ }
+
+ /*透明度0.5*/
+ .hope-c-PJLV-iigjoxS-css,
+ .hope-ui-dark .left-toolbar,
+ .hope-ui-dark .hope-icon-button,
+ .hope-ui-dark .hope-c-PJLV-ikEIIxw-css,
+ .hope-ui-dark .hope-c-zbPwS,
+ .solid-contextmenu__theme--dark {
+     background-color: rgba(0, 0, 0, 0.5) !important;
+ }
+
+ .hope-c-PJLV-igScBhH-css,
+ .hope-ui-light .left-toolbar,
+ .hope-ui-light .hope-icon-button,
+ .hope-ui-light .hope-c-PJLV-ikEIIxw-css,
+ .hope-ui-light .hope-c-zbPwS,
+ .hope-ui-light .solid-contextmenu {
+     background-color: rgba(255, 255, 255, 0.5) !important;
+ }
+
+ /*透明度0.7*/
+ .hope-c-PJLV-ikaMhsQ-css,
+ .hope-c-PJLV-ieGWMbI-css {
+     opacity: 0.7;
+ }
+
+ .hope-c-PJLV-idaeksS-css {
+     opacity: 0.7;
+     border-radius: 10px;
+ }
+
+ /*透明度0.8*/
+ .hope-ui-dark .hope-c-hOYTCS,
+ .hope-ui-dark .hope-c-cIFneQ {
+     background-color: rgba(0, 0, 0, 0.8) !important;
+ }
+
+ .hope-ui-light .hope-c-hOYTCS,
+ .hope-ui-light .hope-c-cIFneQ {
+     background-color: rgba(255, 255, 255, 0.8) !important;
+ }
+
+ /*透明度0.9*/
+ .hope-c-PJLV-ieGWMbI-css {
+     opacity: 0.9;
+ }
